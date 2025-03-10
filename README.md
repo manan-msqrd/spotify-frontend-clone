@@ -1,6 +1,6 @@
 # Spotify Frontend Clone 
 Built using React.js and Tailwind CSS.
 
-Do check out the project here...
-
-spotify-frontend-clone-react-app.vercel.app
+## Live Demo
+Check out the live project here:  
+[spotify-frontend-clone-react-app.vercel.app](https://spotify-frontend-clone-react-app.vercel.app)
